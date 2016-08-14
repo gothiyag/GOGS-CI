@@ -13,6 +13,7 @@ Then Result as "<Result>" should be displayed
 
 Examples:
 |NumberA	|NumberB	|Operator	|Result	|
-|5	|2	|add	|7	|
-|5	|2	|sub	|3	|
-|5	|3	|mul	|15	|
+|9	|4	|add	|13	|
+|20	|2	|sub	|18	|
+|50	|3	|mul	|150	|
+|90	|10	|div	|9	|
