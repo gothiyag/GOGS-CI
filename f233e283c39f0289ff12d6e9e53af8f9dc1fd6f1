@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baa041b7_369d1766",
+        "filename": "calc/src/integration-test/java/com/cucumber/feature/integration.feature",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1009133
+      },
+      "writtenOn": "2016-08-14T23:59:24Z",
+      "side": 1,
+      "message": "We can add negative scenario",
+      "range": {
+        "startLine": 19,
+        "startChar": 3,
+        "endLine": 19,
+        "endChar": 4
+      },
+      "revId": "f233e283c39f0289ff12d6e9e53af8f9dc1fd6f1",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
