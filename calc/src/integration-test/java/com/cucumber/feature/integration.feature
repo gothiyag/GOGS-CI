@@ -15,4 +15,4 @@ Examples:
 |NumberA	|NumberB	|Operator	|Result	|
 |5	|2	|add	|7	|
 |5	|2	|sub	|3	|
-|5	|2	|mul	|10	|
+|5	|3	|mul	|15	|
